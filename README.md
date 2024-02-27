@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a2a2a&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vitor+Henrique+Cavalcanti;I'm+20+years+old;I+am+from+Resplendor,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhcaval&layout=compact&hide_border=true&title_color=000000&text_color=ffffff&bg_color=000000" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorhcaval&bg_color=232a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorhcaval&bg_color=2a2a2a&color=f2f2f2&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
@@ -46,4 +46,4 @@
 <p align="center" ><img align="center"  src="https://profile-counter.glitch.me/{Railson25}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9F78F1&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a2a2a&height=120&section=footer"/>
