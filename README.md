@@ -1,27 +1,26 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a2a2a&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f0f0f0&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vitor+Henrique+Cavalcanti;I'm+20+years+old;I+am+from+Resplendor,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f2f2f2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vitor+Henrique+Cavalcanti;I'm+20+years+old;I+am+from+Resplendor,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorhcaval&show_icons=true&count_private=true&hide_border=true&title_color=9F78F1&icon_color=000000&text_color=fff&bg_color=000000" alt="Vitor Henrique Cavalcanti github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitorhcaval&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=fff&bg_color=000000" alt="Vitor Henrique Cavalcanti github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhcaval&layout=compact&hide_border=true&title_color=000000&text_color=ffffff&bg_color=000000" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vitorhcaval&bg_color=2a2a2a&color=f2f2f2&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vitorhcaval&theme=dracula&row=2&no-bg=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vitorhcaval&theme=oldie&row=2&no-bg=true&column=7&margin-w=15&margin-h=15" />
 </p>
 
 
  
 ### Main skills:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Next JS](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=blackD1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=&labelColor=blue)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
@@ -32,18 +31,18 @@
 ### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
   
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
 
 <div align="center" >
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center" ><img align="center"  src="https://profile-counter.glitch.me/{Railson25}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2a2a2a&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f0f0f0&height=120&section=footer"/>
